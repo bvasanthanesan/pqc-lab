@@ -21,11 +21,12 @@ This repository documents my learning journey, hands‑on labs, and open‑sourc
 ---
 
 ## 📂 Repository Structure
-- **cbom-inventory/** → Notes and scripts for cryptographic discovery  
-- **pqc-testbeds/** → TLS hybrid demos, PQC‑enabled VPN, PKI migration projects  
-- **side-channel-tests/** → Timing/power analysis notes on PQC algorithms  
-- **consulting-playbooks/** → PQC readiness report templates, crypto‑agility playbook  
-- **resources/** → NIST PQC standards, learning roadmap, useful links  
+
+- [cbom-inventory](./cbom-inventory) → Notes and scripts for cryptographic discovery  
+- [pqc-testbeds](./pqc-testbeds) → TLS hybrid demos, PQC‑enabled VPN, PKI migration projects  
+- [consulting-playbooks](./consulting-playbooks) → PQC readiness report templates, crypto‑agility playbook  
+- [resources](./resources) → NIST PQC standards, learning roadmap, useful links  
+- [side-channel-tests](./side-channel-tests) → Timing/power analysis notes on PQC algorithms
 
 ---
 
